@@ -6,12 +6,12 @@ Il illustre une plateforme nationale de réception, suivi, enquête et reporting
 *Independent, unofficial prototype with fictional data (Nioro Resources LLC): complaint intake, case tracking, audit trail, dashboards and role-based access for Senegal's Police and Gendarmerie.*
 
 ## Contenu
-- `prototype/` : prototype v4.1 (HTML/JS autonome, `index.html`). Ouvrir via un petit serveur local, ex. `cd prototype && python3 -m http.server 8000`.
-- `docs/` : notes de version, modèle d'accès, terminologie, revues.
+- `docs/` (publié via GitHub Pages) : prototype v4.1 (HTML/JS autonome, `index.html`). Ouvrir via un petit serveur local, ex. `cd docs && python3 -m http.server 8000`.
+- `notes/` : notes de version, modèle d'accès, terminologie, revues.
 - `video/` : script de lecture, sous-titres FR, scripts de montage/voix off (`tts.py`, `build.py`). Les vidéos MP4 sont publiées dans *Releases*, pas dans le dépôt.
 
 ## Statut
 Prototype de démonstration : stockage local navigateur, aucune donnée réelle, aucune affiliation officielle.
 
 ## Stockage partagé (Firebase)
-`prototype/firebase-sync.js` synchronise l'état de démonstration avec une Realtime Database Firebase (REST). Données fictives uniquement ; sans accès réseau, le prototype reste en stockage navigateur. Ajouter `?local=1` à l'URL désactive la synchronisation. Mode « dernier écrit gagne », sans authentification : prototype uniquement. Les règles de la base doivent limiter l'écriture au nœud `sigp-demo`.
+`docs/firebase-sync.js` synchronise l'état de démonstration avec une Realtime Database Firebase (REST). Données fictives uniquement ; sans accès réseau, le prototype reste en stockage navigateur. Ajouter `?local=1` à l'URL désactive la synchronisation. Mode « dernier écrit gagne », sans authentification : prototype uniquement. Les règles de la base doivent limiter l'écriture au nœud `sigp-demo`.
