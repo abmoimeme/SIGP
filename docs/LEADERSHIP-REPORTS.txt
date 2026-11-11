@@ -1,0 +1,2 @@
+Leadership pilotage: sidebar Pilotage et rapports. Signed-in account scope applies. Internal follow-up KPIs, status/category bars, unit/region comparisons, incident-date distribution, task overdue counts, period filters, aggregate CSV, printable report via browser print/save PDF. Click bars to see scoped cases. Temporary cross-unit read grants excluded from unit statistics. No real crime-rate or legal-deadline claims. All data fictional.
+Logic tests passed. Browser click/print, downloads and responsive visual verification remain pending.

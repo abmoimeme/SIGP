@@ -1,1 +1,0 @@
-v4.1: French corrector now fixes the scripted recording text (declarante, materiel, a verifier, n'est, identifie). Browser-tested: login x3, scopes (4/8/11 cases), intake->archive->reopen, specimen, CSV, territory drill-down incl. empty locality, no console errors.

@@ -12,3 +12,6 @@ Il illustre une plateforme nationale de réception, suivi, enquête et reporting
 
 ## Statut
 Prototype de démonstration : stockage local navigateur, aucune donnée réelle, aucune affiliation officielle.
+
+## Stockage partagé (Firebase)
+`prototype/firebase-sync.js` synchronise l'état de démonstration avec une Realtime Database Firebase (REST). Données fictives uniquement ; sans accès réseau, le prototype reste en stockage navigateur. Ajouter `?local=1` à l'URL désactive la synchronisation. Mode « dernier écrit gagne », sans authentification : prototype uniquement. Les règles de la base doivent limiter l'écriture au nœud `sigp-demo`.
