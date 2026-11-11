@@ -1,0 +1,7 @@
+Applied Round 2 brief to latest v4, 8 November 2026. Earlier v3.3 archive was not supplied; receipt date, plural agreement and additional correction rules applied directly.
+Three named demo accounts/passwords retained. Station switcher offers only authorized units and does not change the logged-in role. Local account cannot impersonate another station. Territorial explorer receives its own authorized-unit selector.
+City selection uses explicit locality. Four original fictional brigade scenarios designated Dakar to match the requested fixture. Other unlocated cases remain unlocated; no city assignment inferred from their region. This fixture assignment is recorded in localitySource. Empty cities do not inherit region totals.
+Last two transitions require confirmation. Reopening requires station supervisor permission and a reason, with date, profile and named fictional user in history.
+Illustrative-position note added. Existing status/category/hierarchy labels retained.
+CHECKED: JavaScript/data logic, locality filtering, correction example, reopen permissions/reason/history, and three account scopes.
+NOT VERIFIED IN CHROME: confirmation/cancel clicks, station selector clicks, printing, complete intake-to-archive sequence, all sidebar actions, console at all widths, and 1440/1280/390 layouts. No browser acceptance is claimed. File-URL automation remains blocked by browser policy.

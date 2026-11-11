@@ -1,0 +1,3 @@
+Visual refinement — institutional direction
+Forest-green navigation and operational workspace, warm neutral backgrounds, restrained gold accents, consistent type scale, flat KPI strip, quieter cards and tables, clear hover/focus states and responsive layouts. National identity and independent-prototype notice retained. Decorative signage hidden; legal reference access retained. System fonts and offline assets only.
+Workflow/data logic checks passed after text and visual changes. Browser visual and end-to-end verification remain pending; no claim of professional design certification.

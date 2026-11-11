@@ -1,0 +1,8 @@
+SIGP two-letter regional references
+Convention requested by project owner, inspired by vehicle registration codes; NOT an official complaint-numbering system.
+DK Dakar / DB Diourbel / FK Fatick / KA Kaffrine / KE Kédougou / KL Kaolack / KD Kolda / LG Louga / MT Matam / SL Saint-Louis / SE Sédhiou / TC Tambacounda / TH Thiès / ZG Ziguinchor.
+The current plate-style list is used as a configurable demo convention. Published sources differ: a 2018 legal transcription lists DL, KF and SD instead of DB, KA and SE, and omits the Kédougou code. Confirm these variants with the transport authority before claiming complete official equivalence.
+Sources checked 7 November 2026:
+https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Senegal
+https://www.lexenegal.sn/code/decret-2004-13-regles-application-code-de-la-route-partie-reglementaire/art-l2
+Legacy record references retained as legacyReference where migration changes an existing ID. Related access requests, audit references and pins migrated. Internal unit/geography identifiers use the same two-letter mapping.

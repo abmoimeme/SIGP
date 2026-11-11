@@ -1,0 +1,9 @@
+Territory explorer and leadership visuals
+- Click map point or region card, then city/locality card, then demo neighborhood card.
+- Search filters the current list. Breadcrumbs navigate back without changing case permissions.
+- Neighborhoods remain explicitly fictional; no assertion of comprehensive real neighborhood coverage.
+- City cases are shown only for Malika / Grand Yoff when explicitly identifiable from station data; other geographic data is not fabricated.
+- Leadership status bars open scoped case lists. Review/task buttons open existing workflows. Institutional summary does not permit case drill-through.
+- Keyboard focus outlines and responsive layout included.
+Checks: JavaScript syntax, navigation state, territory scoping, empty-area behavior, breadcrumbs and existing access-rule logic passed.
+Browser-level clicking and visual QA remain unverified due local-file preview policy and unavailable DOM test libraries. Do not treat logic checks as end-to-end browser certification.

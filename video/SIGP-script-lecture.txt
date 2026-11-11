@@ -1,0 +1,32 @@
+[0:00 – 0:25]
+SIGP est un prototype indépendant, développé par Nioro Resources. Il ne repose sur aucun lien officiel et n’utilise que des données fictives. Deux espaces distincts : Police nationale et Gendarmerie nationale. Les comptes et les dossiers restent séparés.
+
+[0:25 – 1:10]
+Voici le poste d’un commandement local. Dès l’ouverture, le responsable voit l’essentiel : dossiers en cours, dossiers urgents, taux de traitement et dossiers à valider.
+
+[1:10 – 1:50]
+La carte situe l’activité par région. Les positions sont indicatives, et aucun dossier n’est rattaché à un lieu sans information fiable.
+
+[1:50 – 3:00]
+Un agent enregistre une plainte. L’objet est généré automatiquement. La qualification proposée n’est qu’une présélection : elle doit être confirmée par l’unité. Un signalement sans identité reste distinct d’une plainte nominative.
+
+[3:00 – 4:00]
+Le dossier arrive en brouillon. Le superviseur valide la saisie interne. L’aide à la rédaction corrige le français, structure le texte et propose un style de compte rendu ; chaque correction est prévisualisée et peut être annulée.
+
+[4:00 – 5:00]
+Le dossier est affecté à un enquêteur désigné, qui ne voit que ses dossiers. Les tâches ont un responsable et une échéance. Le registre de service garde la trace des déclarations courantes.
+
+[5:00 – 6:00]
+La relève de service résume les urgences et les actions à reprendre. Le pilotage produit une synthèse du périmètre autorisé, imprimable en PDF.
+
+[6:45 – 9:00]
+Un compte régional voit les unités autorisées de sa région, et seulement celles-là. Le journal d’activité conserve qui a fait quoi, et quand.
+
+[9:00 – 10:50]
+Au niveau national, la vue s’élargit à toutes les unités autorisées. L’exploration territoriale descend de la région à la ville, puis au secteur. Quand une zone n’a aucun dossier, l’écran le dit clairement. La navigation géographique ne donne jamais de droit d’accès supplémentaire.
+
+[10:50 – 15:50]
+Le même principe s’applique à la Gendarmerie nationale, avec ses brigades et son commandement. Chaque institution garde ses propres comptes et ses propres dossiers.
+
+[15:50 – 16:15]
+SIGP : un seul cadre pour recevoir, suivre et superviser les plaintes, avec des accès limités à chaque unité. Ce prototype est une base de discussion ; chaque règle devra être validée avec vos services.

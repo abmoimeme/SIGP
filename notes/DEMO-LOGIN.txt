@@ -1,0 +1,24 @@
+SIGP — Comptes de démonstration / Nioro Resources LLC
+
+Choisir Police nationale ou Gendarmerie nationale sur la première page.
+Les noms sont fictifs. Les comptes ne représentent aucun agent réel.
+
+Niveau      Police              Gendarmerie       Mot de passe
+Local       police.local        local.demo        Local-Demo-2026!
+Régional    police.regional     regional.demo     Region-Demo-2026!
+National    police.national     national.demo     National-Demo-2026!
+
+Local : vue de son unité uniquement, hors autorisation temporaire de dossier.
+Régional : vues Régional et Local dans sa région et son institution.
+National : vues National, Régional et Local dans son institution.
+
+Les boutons Périmètre d’accès changent la vue, pas l’identité ni les droits.
+Choisir une région en vue régionale ou locale avec un compte national.
+Le sélecteur Unité consultée permet de sélectionner les unités autorisées.
+Les dossiers de l’autre institution sont exclus, même des accès temporaires.
+Pour changer d’identité ou d’institution : Se déconnecter.
+
+Les logos et devises sont des références visuelles, sans affiliation officielle.
+Les emblèmes sont conservés dans dist pour fonctionner hors connexion.
+Les mots de passe sont visibles dans le code : aucune authentification serveur.
+Ne saisir aucune donnée réelle.

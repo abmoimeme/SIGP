@@ -1,0 +1,37 @@
+MISE À JOUR — 8 novembre 2026
+Nioro Resources LLC
+
+Deux entrées : Police nationale / Gendarmerie nationale.
+Trois comptes par institution. Les comptes Gendarmerie existants restent valables.
+Séparation des dossiers et des autorisations temporaires entre institutions.
+Navigation Local / Régional / National bornée par l’autorité du compte ;
+la sélection ne change ni le profil, ni le nom, ni l’auteur des actions.
+Les tableaux de bord et rapports suivent le périmètre sélectionné.
+
+Logos et devises : choix initial, connexion, bandeau de session,
+rapport de pilotage à l’écran, rapport imprimé/PDF et accusé de saisie imprimé.
+Les CSV sont des fichiers texte et ne contiennent pas d’image.
+
+Missions et cadre : nouvelle entrée du menu avec sources institutionnelles.
+Police : loi 2009-18 du 9 mars 2009, article premier, synthèse DGPN.
+https://www.policenationale.gouv.sn/missions/
+Gendarmerie : décret 2006-112, fonctions de police judiciaire,
+administrative et militaire. Ce texte ancien ne prétend pas décrire à lui seul
+l’organisation actuelle ; modifications et habilitations à valider localement.
+https://forcesarmees.gouv.sn/sites/default/files/decret_2006-112_-_organisation_du_haut_commandement_de_la_gendarmerie.pdf
+Les missions se recoupent : pas de séparation exclusive ville/campagne.
+Les fonctions militaires et frontières/titres ne sont pas développées.
+Les vues SIGP ne constituent pas des habilitations légales.
+
+Identité visuelle :
+Police : emblème déjà fourni ; devise vérifiée sur le site DGPN ci-dessus.
+Gendarmerie : https://www.gendarmerie.sn/logo.png
+Devise « Honneur et Patrie », ministère des Forces armées :
+https://www.forcesarmees.gouv.sn/discours/discours-du-ministre-ceremonie-de-sortie-de-la-10e-des-eleves-grades-et-de-la-51e-promotion
+
+Vérification réalisée : syntaxe JavaScript ; tests de logique des six comptes,
+isolation institutionnelle, limites de périmètre et retour à la vue supérieure ;
+génération des pages de connexion et en-têtes de rapports/accusés.
+Tests sur données neuves : Police 4 / 20 / 32 dossiers ; Gendarmerie 4 / 7 / 10.
+Les nombres peuvent varier avec le stockage local existant.
+Pas de nouveau test visuel en navigateur ni de parcours complet d’impression.

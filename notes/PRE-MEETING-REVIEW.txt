@@ -1,0 +1,26 @@
+Design brief applied to v3.2
+- Commandant/fictional brigade default retained; supervisor actions first.
+- KPI labels retained as supplied; temporary status wording: Traitement terminé — libellé à valider. Local terminology confirmation deferred by project owner.
+- Secondary panels collapsed; shorter map/event display at desktop width.
+- Decorative pictographs removed; text buttons and accessible labels retained.
+- One prominent independent-prototype notice per active screen, including dialogs; non-official legal classification and illustrative map explanations retained as normal notes.
+- Existing render functions edited directly; no new function override layer added.
+
+CHECKED HERE
+JavaScript syntax, territory navigation logic, access rules and reference formats.
+Calculated text/background contrast for zoom controls 12.89:1, primary action 8.30:1, prototype notice 6.57:1. Not an audit of every rendered state.
+
+REQUIRED MANUAL WALKTHROUGH — NOT YET PERFORMED HERE
+[ ] Intake and generated subject, including unidentified-report option.
+[ ] Narrative correction preview / apply / undo.
+[ ] Internal review queue and validation.
+[ ] Assignment and investigator notes.
+[ ] Evidence metadata entry and specimen print.
+[ ] Service handover.
+[ ] All demo profiles and permission boundaries.
+[ ] Territory drill-down, back navigation and empty areas.
+[ ] CSV export for permitted roles and denied for others.
+[ ] Register and activity journal.
+[ ] Phone-width and 1280 px projector layout.
+Record browser/device, steps and actual results. Do not mark complete from logic tests alone.
+Local-file browser automation remains blocked by app security policy. No legal certification, institutional affiliation or production security is claimed.

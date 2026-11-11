@@ -1,0 +1,7 @@
+SIGP prototype v2 - changes vs original (dist/index.html patched, original untouched)
+1. Bug: "Dossiers ouverts" counted Resolue cases as open AND resolved. Now open = not Resolue/Cloturee/Archivee (5 -> 4).
+2. Bug: zoom +/- buttons were near-white on white (invisible). Now dark text, bordered.
+3. Dates shown dd/mm/yyyy everywhere (storage/CSV remain ISO).
+4. One prominent red "PROTOTYPE INDEPENDANT - NON OFFICIEL" bar, sticky; redundant ministry reference box hidden; republic banner slimmed.
+5. "Commandement et roles" and "Profil du commissariat" collapsed by default: KPIs and map now above the fold.
+Not done (needs rebuild, see report): supervisor queue in nav, accurate map boundaries, seed-data realism, replacing the stacked monkey-patch code with the real React/NestJS architecture.
