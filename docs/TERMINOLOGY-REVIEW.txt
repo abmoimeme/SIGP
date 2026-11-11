@@ -1,0 +1,32 @@
+SIGP — Senegal terminology review, 7 November 2026
+
+CHANGED
+- Internal status names distinguish completion of unit work from judicial resolution. Existing stored statuses migrated consistently.
+- Assignment uses Affectée; supervisor action is an internal data check, not a legal condition for receiving a complaint.
+- Printed document is an Accusé de saisie — démonstration, specimen without official value; no assertion of statutory receipt issuance.
+- Main courante renamed Registre de service pending unit validation. Lost/found routing is a demonstration convention, not asserted Senegalese law.
+- Anonymous entry described as Signalement sans identité rather than an anonymous nominative complaint.
+- Pieces described as an internal inventory, distinct from judicial seizure, scellés, or transfer to a registry.
+- Police national directorate profiles excluded from the fictional brigade selector; brigade uses its command wording. Full Gendarmerie hierarchy remains to design and validate.
+- Reference panel explains OPJ/APJ status, plaignant/declarant/temoin, persons implicated vs convicted, notes vs procès-verbaux, and judiciary vs administrative hierarchy.
+- Task deadlines remain internal; no custody, limitation, retention or transmission deadline is computed.
+
+SOURCES
+Ministry of Justice, Code de procédure pénale (historical copy; amendments must be checked):
+https://justice.sec.gouv.sn/wp-content/uploads/2020/11/code-procedure-penal.pdf
+Police organization:
+https://www.policenationale.gouv.sn/page-d-exemple/
+Ministry of Armed Forces, Gendarmerie command:
+https://forcesarmees.gouv.sn/farmeessite/services-propres/haut-commandement-de-la-gendarmerie-nationale
+Personal data law 2008-12:
+https://www.wipo.int/wipolex/fr/legislation/details/6229
+Offence sources: dist/legal-categories.json
+
+STILL REQUIRES LOCAL VALIDATION
+Official register/PV formats and numbering; intake and identity requirements;
+OPJ/APJ habilitations; exact chain of command and delegations; prosecutor transmission procedures;
+classification catalogue and amendments; receipt wording; evidence/scellés workflow;
+retention and security/data-protection requirements. No assertion that all labels are legally certified.
+
+CHECKS
+JavaScript and data logic checks passed. No end-to-end browser certification or legal certification performed.

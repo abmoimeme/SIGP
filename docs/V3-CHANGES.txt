@@ -1,0 +1,25 @@
+SIGP v3 — meeting prototype, based on supplied v2
+
+Original v2 ZIP and previous prototype preserved.
+- Kept v2 KPI calculation, date display, zoom contrast, disclaimers and collapsed profile blocks.
+- Sidebar shortcuts: À valider, Tâches et rappels, Relève de service. Shortcuts open existing workflow panels; available according to demo profile.
+- National Senegal and Gambia geometry replaced with Natural Earth 5.1.2 Admin 0, 1:50 million. Embedded for offline use; GeoJSON included. Local drill-down boundaries remain illustrative.
+- Moved four seeded lost/found scenarios into main courante; this is a demo classification, subject to validation of local procedures.
+- Four complaint scenarios each for Malika, Grand Yoff and a fictional territorial Gendarmerie brigade. No real brigade partnership is claimed.
+- Gendarmerie command label for the brigade profile; no real Gendarmerie rank/access model implemented.
+- Unconfirmed station phone numbers removed from visible contact fields.
+- Separate v3 browser storage: edits in previous versions are not imported.
+
+VERIFICATION
+JavaScript syntax and data logic passed: station scopes, item migration, investigator scope, tasks and unique reference numbers.
+Browser preview was blocked by local-file URL security policy. Intake, review, assignment, evidence, print receipts, handover, profile switching, drill-down and CSV have NOT been exercised end-to-end in v3.
+The layered single-file implementation remains a design prototype. React/NestJS production refactor is not part of this update.
+
+OPEN
+Extract everything, then open dist/index.html in a browser. Use fictional information only.
+
+MAP SOURCE
+Natural Earth vector v5.1.2:
+https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_50m_admin_0_countries.geojson
+https://www.naturalearthdata.com/about/terms-of-use/
+National outlines are generalized cartography, not official administrative/cadastral boundaries. City positions and neighborhood maps remain illustrative.

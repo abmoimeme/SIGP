@@ -1,0 +1,8 @@
+*.mp4
+*.wav
+*.tar.bz2
+vits-piper-*/
+clips_*/
+aud_*/
+node_modules/
+.DS_Store

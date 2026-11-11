@@ -1,0 +1,260 @@
+{
+  "reviewed": "2026-11-07",
+  "exhaustive": false,
+  "officialNomenclature": false,
+  "validation": "Pending review by Senegalese legal counsel",
+  "categories": [
+    {
+      "label": "Vol",
+      "family": "Atteintes aux biens",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Extorsion",
+      "family": "Atteintes aux biens",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Escroquerie",
+      "family": "Atteintes aux biens",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Abus de confiance",
+      "family": "Atteintes aux biens",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Recel",
+      "family": "Atteintes aux biens",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Destruction ou dégradation de biens",
+      "family": "Atteintes aux biens",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Incendie volontaire",
+      "family": "Atteintes aux biens",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Meurtre",
+      "family": "Atteintes aux personnes",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Assassinat",
+      "family": "Atteintes aux personnes",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Homicide involontaire",
+      "family": "Atteintes aux personnes",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Coups et blessures volontaires",
+      "family": "Atteintes aux personnes",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Blessures involontaires",
+      "family": "Atteintes aux personnes",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Menaces",
+      "family": "Atteintes aux personnes",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Enlèvement ou séquestration",
+      "family": "Atteintes aux personnes",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Non-assistance à personne en danger",
+      "family": "Atteintes aux personnes",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Viol",
+      "family": "Violences sexuelles et protection",
+      "law": "Code pénal modifié ; loi n° 2020-05 pour le viol",
+      "url": "https://justice.sec.gouv.sn/publications/textes/droit-penal-et-procedure-penale/",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Harcèlement sexuel",
+      "family": "Violences sexuelles et protection",
+      "law": "Code pénal modifié ; loi n° 2020-05 pour le viol",
+      "url": "https://justice.sec.gouv.sn/publications/textes/droit-penal-et-procedure-penale/",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Mutilations génitales féminines",
+      "family": "Violences sexuelles et protection",
+      "law": "Code pénal modifié ; loi n° 2020-05 pour le viol",
+      "url": "https://justice.sec.gouv.sn/publications/textes/droit-penal-et-procedure-penale/",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Faux et usage de faux",
+      "family": "Faux et probité",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Corruption",
+      "family": "Faux et probité",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Détournement de deniers publics",
+      "family": "Faux et probité",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Concussion",
+      "family": "Faux et probité",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Rébellion",
+      "family": "Justice et autorité publique",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Outrage à agent public",
+      "family": "Justice et autorité publique",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Association de malfaiteurs",
+      "family": "Justice et autorité publique",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Dénonciation calomnieuse",
+      "family": "Justice et autorité publique",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Faux témoignage",
+      "family": "Justice et autorité publique",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Bris de scellés",
+      "family": "Justice et autorité publique",
+      "law": "Code pénal — loi n° 65-60 modifiée",
+      "url": "https://www.wipo.int/wipolex/fr/legislation/details/6336",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Accès frauduleux à un système informatique",
+      "family": "Systèmes informatiques",
+      "law": "Loi n° 2008-11 sur la cybercriminalité",
+      "url": "https://www.vie-publique.sn/documents/7547/loi-n-2008-11-du-25-janvier-2008-relative-a-la-cybercriminalite",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Maintien frauduleux dans un système informatique",
+      "family": "Systèmes informatiques",
+      "law": "Loi n° 2008-11 sur la cybercriminalité",
+      "url": "https://www.vie-publique.sn/documents/7547/loi-n-2008-11-du-25-janvier-2008-relative-a-la-cybercriminalite",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Entrave au fonctionnement d’un système informatique",
+      "family": "Systèmes informatiques",
+      "law": "Loi n° 2008-11 sur la cybercriminalité",
+      "url": "https://www.vie-publique.sn/documents/7547/loi-n-2008-11-du-25-janvier-2008-relative-a-la-cybercriminalite",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Altération frauduleuse de données informatiques",
+      "family": "Systèmes informatiques",
+      "law": "Loi n° 2008-11 sur la cybercriminalité",
+      "url": "https://www.vie-publique.sn/documents/7547/loi-n-2008-11-du-25-janvier-2008-relative-a-la-cybercriminalite",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Trafic illicite de drogues",
+      "family": "Drogues",
+      "law": "Code des drogues — loi n° 97-18",
+      "url": "https://www.centif.sn/asset/attachements/lois/national/legislatifs/Infractions%20sous-jascent/Loi_97_18_%20portant_codes_des_drogues.pdf",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Détention illicite de drogues",
+      "family": "Drogues",
+      "law": "Code des drogues — loi n° 97-18",
+      "url": "https://www.centif.sn/asset/attachements/lois/national/legislatifs/Infractions%20sous-jascent/Loi_97_18_%20portant_codes_des_drogues.pdf",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Traite des personnes",
+      "family": "Traite et exploitation",
+      "law": "Loi n° 2005-06 — traite des personnes",
+      "url": "https://www.centif.sn/asset/attachements/lois/national/legislatifs/Infractions%20sous-jascent/Loi_2005_06%20du%2029%20avril%202006%20%20relative%20%C3%A0%20la%20lutte%20contre%20la%20traite%20des%20personnes%20et%20pratiques%20assimil%C3%A9es%20et%20%C3%A0%20la%20protection%20des%20victimes.pdf",
+      "status": "Libellé de présélection — validation juridique requise"
+    },
+    {
+      "label": "Exploitation de la mendicité d’autrui",
+      "family": "Traite et exploitation",
+      "law": "Loi n° 2005-06 — traite des personnes",
+      "url": "https://www.centif.sn/asset/attachements/lois/national/legislatifs/Infractions%20sous-jascent/Loi_2005_06%20du%2029%20avril%202006%20%20relative%20%C3%A0%20la%20lutte%20contre%20la%20traite%20des%20personnes%20et%20pratiques%20assimil%C3%A9es%20et%20%C3%A0%20la%20protection%20des%20victimes.pdf",
+      "status": "Libellé de présélection — validation juridique requise"
+    }
+  ]
+}

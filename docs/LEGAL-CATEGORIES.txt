@@ -1,0 +1,7 @@
+Catalogue de présélection — 7 novembre 2026
+Non exhaustif. Non validé comme nomenclature officielle ou droit intégralement consolidé.
+Les familles sont des regroupements de navigation SIGP. Les libellés sont inspirés des textes cités, sans attribution automatique d’article, de peine ou de nature crime/délit/contravention.
+Les dossiers existants ne sont pas requalifiés automatiquement. Les anciennes catégories peuvent rester visibles sur les données de démonstration.
+Le Code de la route 2022 et autres textes spéciaux restent à intégrer après lecture et validation ; les incidents routiers existants restent des données historiques de démonstration.
+Validation requise avec un avocat sénégalais et les services concernés avant usage réel. Certains textes consultés sont anciens et leurs modifications ne sont pas intégralement consolidées.
+Sources et libellés : dist/legal-categories.json ; bouton Référentiel des qualifications dans l’application.

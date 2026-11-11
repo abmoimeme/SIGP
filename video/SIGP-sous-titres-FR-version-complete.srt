@@ -1,0 +1,170 @@
+1
+00:00:01,000 --> 00:00:06,806
+SIGP est un prototype indépendant,
+développé par Nioro Resources.
+
+2
+00:00:06,956 --> 00:00:13,679
+Il ne repose sur aucun lien officiel et
+n’utilise que des données fictives.
+
+3
+00:00:13,829 --> 00:00:19,818
+Deux espaces distincts : Police nationale
+et Gendarmerie nationale.
+
+4
+00:00:19,968 --> 00:00:23,850
+Les comptes et les dossiers restent
+séparés.
+
+5
+00:00:26,000 --> 00:00:35,892
+Voici le poste d’un commandement local.
+
+6
+00:00:36,042 --> 00:00:58,293
+Dès l’ouverture, le responsable voit
+l’essentiel : dossiers en cours, dossiers
+urgents,
+
+7
+00:00:58,443 --> 00:01:08,850
+taux de traitement et dossiers à valider.
+
+8
+00:01:11,000 --> 00:01:21,343
+La carte situe l’activité par région.
+
+9
+00:01:21,493 --> 00:01:42,044
+Les positions sont indicatives, et aucun
+dossier n’est rattaché à un lieu
+
+10
+00:01:42,194 --> 00:01:48,850
+sans information fiable.
+
+11
+00:01:51,000 --> 00:02:00,436
+Un agent enregistre une plainte.
+
+12
+00:02:00,586 --> 00:02:10,920
+L’objet est généré automatiquement.
+
+13
+00:02:11,070 --> 00:02:38,180
+La qualification proposée n’est qu’une
+présélection : elle doit être confirmée
+par l’unité.
+
+14
+00:02:38,330 --> 00:02:58,850
+Un signalement sans identité reste
+distinct d’une plainte nominative.
+
+15
+00:03:01,000 --> 00:03:08,771
+Le dossier arrive en brouillon.
+
+16
+00:03:08,921 --> 00:03:18,991
+Le superviseur valide la saisie interne.
+
+17
+00:03:19,141 --> 00:03:37,387
+L’aide à la rédaction corrige le français,
+structure le texte et propose
+
+18
+00:03:37,537 --> 00:03:58,850
+un style de compte rendu ; chaque
+correction est prévisualisée et peut être
+annulée.
+
+19
+00:04:01,000 --> 00:04:24,422
+Le dossier est affecté à un enquêteur
+désigné, qui ne voit que ses dossiers.
+
+20
+00:04:24,572 --> 00:04:38,690
+Les tâches ont un responsable et une
+échéance.
+
+21
+00:04:38,840 --> 00:04:58,850
+Le registre de service garde la trace des
+déclarations courantes.
+
+22
+00:05:01,000 --> 00:05:28,625
+La relève de service résume les urgences
+et les actions à reprendre.
+
+23
+00:05:28,775 --> 00:05:58,850
+Le pilotage produit une synthèse du
+périmètre autorisé, imprimable en PDF.
+
+24
+00:06:46,000 --> 00:08:04,700
+Un compte régional voit les unités
+autorisées de sa région, et seulement
+celles-là.
+
+25
+00:08:04,850 --> 00:08:58,850
+Le journal d’activité conserve qui a fait
+quoi, et quand.
+
+26
+00:09:01,000 --> 00:09:27,173
+Au niveau national, la vue s’élargit à
+toutes les unités autorisées.
+
+27
+00:09:27,323 --> 00:09:56,592
+L’exploration territoriale descend de la
+région à la ville, puis au secteur.
+
+28
+00:09:56,742 --> 00:10:19,818
+Quand une zone n’a aucun dossier, l’écran
+le dit clairement.
+
+29
+00:10:19,968 --> 00:10:48,850
+La navigation géographique ne donne jamais
+de droit d’accès supplémentaire.
+
+30
+00:10:51,000 --> 00:13:42,703
+Le même principe s’applique à la
+Gendarmerie nationale, avec ses brigades
+et son commandement.
+
+31
+00:13:42,853 --> 00:15:48,850
+Chaque institution garde ses propres
+comptes et ses propres dossiers.
+
+32
+00:15:51,000 --> 00:15:58,940
+SIGP : un seul cadre pour recevoir, suivre
+et superviser les plaintes,
+
+33
+00:15:59,090 --> 00:16:03,332
+avec des accès limités à chaque unité.
+
+34
+00:16:03,482 --> 00:16:10,845
+Ce prototype est une base de discussion ;
+chaque règle devra être
+
+35
+00:16:10,995 --> 00:16:13,850
+validée avec vos services.
+

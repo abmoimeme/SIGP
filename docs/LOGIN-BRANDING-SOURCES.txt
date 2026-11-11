@@ -1,0 +1,5 @@
+Login visual references, checked 8 November 2026
+Flag: existing Senegal flag asset.
+Police emblem: original file from https://www.policenationale.gouv.sn/wp-content/uploads/2018/12/LOGO_POLICE2.jpg
+Police motto: Dans l’honneur, au service de la loi. Source https://www.policenationale.gouv.sn/
+Police wording is labeled separately from the shared Police/Gendarmerie terminal. Independent prototype, no official affiliation claimed.

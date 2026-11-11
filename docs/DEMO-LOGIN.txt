@@ -1,0 +1,24 @@
+SIGP — 3 comptes de démonstration Gendarmerie
+Tous les noms, unités et dossiers sont fictifs.
+
+LOCAL
+Identifiant : local.demo
+Mot de passe : Local-Demo-2026!
+Amadou Diallo — responsable de la brigade fictive A, Dakar.
+Voit les dossiers de sa brigade uniquement.
+
+RÉGIONAL
+Identifiant : regional.demo
+Mot de passe : Region-Demo-2026!
+Aminata Sy — coordination régionale fictive, Dakar.
+Voit les brigades fictives A et B de Dakar. Pas la brigade C de Thiès.
+
+NATIONAL
+Identifiant : national.demo
+Mot de passe : National-Demo-2026!
+Mamadou Faye — pilotage national fictif.
+Voit les brigades fictives A, B et C des régions Dakar et Thiès.
+
+Les dossiers Police restent exclus des trois comptes. Les permissions fonctionnelles restent distinctes du périmètre : le niveau national n’accorde pas automatiquement les fonctions locales de saisie ou de validation.
+Déconnexion nécessaire pour changer de compte. Comptes précédents retirés de ce parcours de présentation.
+Identifiants visibles dans le code : simulation, sans authentification serveur. Ne pas utiliser de données réelles.

@@ -1,0 +1,20 @@
+SIGP — proposed access model (demo, not official permissions)
+
+Default: deny access outside assigned unit.
+Agent: own intake records in assigned unit.
+Investigator: assigned files in assigned unit.
+Station command: unit files and approval of inbound file access requests.
+Common chief: only units explicitly assigned to that chief. Demo assignment: Malika and Grand Yoff, excluding fictional brigade. Shared geography alone does not imply command authority.
+Regional/national oversight: proposed scopes must be explicitly validated; Police oversight excludes brigade records in the demo.
+Institutional summary: no individual-case detail.
+Technical administration: no complaint content.
+
+Inter-unit request: exact reference acquired through an authorized channel, professional reason, approval by the owning unit, read-only for 24 hours, revocable. No case list from the other station is exposed for searching. No cross-unit edits, print receipts or CSV export granted. Demo grants apply to the requesting unit; production grants should identify the named requester and approver.
+Request state and permission checks occur only in browser memory/local storage. Profile switching deliberately allows reviewers to play different personas; it is NOT authentication. Production must validate every read, write, search, attachment, export and aggregate on the server, with denial by default and reliable audit storage. Restricted/sensitive-file rules, delegated authority, emergency access, named users and authenticated approvals remain to implement.
+Do not use real personal/case data.
+
+Territories: all 14 regions plus an initial city/departmental-seat selection. Not a population ranking. Region names and capitals from the Ministry of Culture information page; administrative city directory from published territorial lists. Regional-capital coordinates are approximate display positions; other city map positions are not fabricated. No invented stations are created for these towns.
+https://mcat.gouv.sn/carte-didentite-et-informations-utiles/
+https://www.vie-publique.sn/collectivites-territoriales/regions
+
+Logic checks passed for unit isolation, request states, expiry, revocation, no cross-unit writes, common-chief scope and all 14 regions. Browser end-to-end tests remain pending.
