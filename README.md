@@ -15,3 +15,7 @@ Prototype de démonstration : stockage local navigateur, aucune donnée réelle,
 
 ## Stockage partagé (Firebase)
 `docs/firebase-sync.js` synchronise l'état de démonstration avec une Realtime Database Firebase (REST). Données fictives uniquement ; sans accès réseau, le prototype reste en stockage navigateur. Ajouter `?local=1` à l'URL désactive la synchronisation. Mode « dernier écrit gagne », sans authentification : prototype uniquement. Les règles de la base doivent limiter l'écriture au nœud `sigp-demo`.
+
+## Fonctions de démonstration ajoutées
+- **Pré-signalements (simulation)** : boîte de réception fictive de pré-signalements en ligne ; l'agent les importe comme dossiers « à valider ». Aucune connexion réelle à une plateforme nationale.
+- **Journal chaîné** : chaque action du journal est liée à la précédente par une empreinte SHA-256 ; le bouton « Vérifier l'intégrité » détecte toute modification. Calcul côté navigateur (prototype) ; en production : signature et ancrage côté serveur.
